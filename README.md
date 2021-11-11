@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ***nothing special!!!***
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on  **TG bot which wil- entertain people i.e. SundayRobot**
+- 👯 I’m looking to collaborate on  **TG bot which will entertain people i.e. [SundayRobot](https://telegram.me/sundayrobot)**
 
 - 💬 Dont ask me about anything cause **Explanation is just a drag :/**
 - 📫 How to reach me: Here's my email id **jawaharonline@yahoo.com**
