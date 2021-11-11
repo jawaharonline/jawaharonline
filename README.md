@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on nothing special
+- 🔭 I’m currently working on ***nothing special!!!***
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on  **TG bot which wil- entertain people i.e. SundayRobot**
 
