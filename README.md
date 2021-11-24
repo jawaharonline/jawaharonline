@@ -22,6 +22,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://code.visualstudio.com//" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/></a> 
+    <a href="https://flask.palletsprojects.com/en/2.0.x///" target="_blank"> <img src="<img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/>"/></a> 
     
 </p>
 
