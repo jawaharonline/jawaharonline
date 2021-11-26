@@ -4,16 +4,15 @@
 <h3 align="center">I'm a passionate in developing and coding.</h3>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on ***nothing special!!!***
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on  **TG bot which will entertain people i.e. [SundayRobot](https://telegram.me/sundayrobot)**
-
-- 💬 Dont ask me about anything cause **Explanation is just a drag :/**
-- 📫 How to reach me: Here's my email id **jawaharonline@yahoo.com**
-- 😄 Pronouns:  he/Him
-- ⚡ Fun fact:  **Extrovert** on internet **Introvert** in real life ;)
+Q | A
+--- | --- 
+**My Machine**  | `Microsoft Windows 10, PC: Philips`
+**Editor**  | `Visual Studio Code`
+**Platforms I develop for** | `Bots, Web, OSS`
+**Languages I know**  | `HTML(lil-bit), Python`
+**Languages I learning** | `Nothing Planned till now `
+**2022 learning Goal** | `Advanced Data Structures and Flask `
+**Skills**  | `I'm just a beginner in coding so not that much skillful 🙁 `
 
 
 ## 🚀 Languages and Tools:
