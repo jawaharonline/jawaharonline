@@ -10,8 +10,8 @@ Q | A
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Bots, Web, OSS`
 **Languages I know**  | `HTML(lil-bit), Python`
-**Languages I learning** | `Nothing Planned till now `
-**2022 learning Goal** | `Advanced Data Structures and Flask `
+**Languages I learning** | `Learning Nothing `
+**2022 learning Goal** | `Advanced Data Structures and Web Devlopment `
 **Skills**  | `I'm just a beginner in coding so not that much skillful 🙁 `
 
 
